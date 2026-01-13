@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "name": "KB Furniture AI Design Studio",
+  "description": ""
+}
